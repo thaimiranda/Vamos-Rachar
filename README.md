@@ -1,8 +1,4 @@
 # Vamos-Rachar 💸
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/seu-usuario/vamos-rachar/ci.yml)](https://github.com/seu-usuario/vamos-rachar/actions)
-
 Um app simples e intuitivo para dividir contas de forma justa entre amigos. Basta inserir o valor total e o número de pessoas – ele calcula automaticamente a parte de cada um!
 
 ## 📋 Funcionalidades
